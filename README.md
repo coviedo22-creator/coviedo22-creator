@@ -1,4 +1,4 @@
-<h1 align="center" style="color:purple">🧙‍♀️ Hello, World!✨</h1>
+<h1 align="center" style="color:purple">🧙‍♀️Hello, World!✨</h1>
 
 <!-- Intro Typing SVG -->
 <p align="center">
