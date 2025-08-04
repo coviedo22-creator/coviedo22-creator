@@ -1,4 +1,4 @@
-<h1 align="center" style="color:purple">🧙‍♀️ Hello, World! I'm Claudia Oviedo ✨</h1>
+<h1 align="center" style="color:purple">🧙‍♀️ Hello, World! I'm a Data Alchemist ✨</h1>
 
 <!-- Intro Typing SVG -->
 <p align="center">
