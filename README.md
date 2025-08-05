@@ -1,9 +1,10 @@
 <h1 align="center" style="color:purple"> ✨Claudia Oviedo✨</h1>
-
 <!-- Intro Typing SVG -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=25&pause=1000&color=D79C00&width=435&lines=Data+analyst+in+higher+education;Educator+and+explorer+of+knowledge;Love+to+transform+data+into+insights;Join+my+quest+as+a+data+alchemist!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=25&pause=1000&color=000000&width=435&lines=Data+analyst+in+higher+education;Educator+and+explorer+of+knowledge;Love+to+transform+data+into+insights;Join+my+quest+as+a+data+alchemist!" alt="Typing SVG" /></a>
 </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=25&pause=1000&color=000000&width=435&lines=Data+analyst+in+higher+education;Educator+and+explorer+of+knowledge;Love+to+transform+data+into+insights;Join+my+quest+as+a+data+alchemist!" alt="Typing SVG" /></a>
 
 <!-- Social Media & Contact -->
   <p align="center">
