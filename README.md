@@ -1,7 +1,7 @@
 <!-- MasterHead -->
-<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover.gif">
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-1.gif">
   <p align="center">
-  <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-1.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 <h1 align="center" style="color:purple"> ✨Claudia Oviedo✨</h1>
