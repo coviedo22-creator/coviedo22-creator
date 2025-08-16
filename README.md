@@ -1,3 +1,8 @@
+<!-- MasterHead -->
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover.gif">
+  <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
+
 <h1 align="center" style="color:purple"> ✨Claudia Oviedo✨</h1>
 <!-- Intro Typing SVG -->
 <p align="center">
