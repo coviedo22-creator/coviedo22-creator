@@ -92,6 +92,6 @@ Did you know that nearly 47% of all students in the U.S. who earned a bachelor�
    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif" alt="Cafe GIF" style="width:auto; height:auto"/>
 </a>
 
-<h2 align="center" style="color:purple"> 🪧 This README was designed by **Claudia Oviedo**</h2>
+<h3 align="center" style="color:purple"> 🪧 This README was designed by Claudia Oviedo </h3>
 
 
