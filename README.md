@@ -59,9 +59,8 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 <!-- Tech Stack Content -->
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <p align="center">
-  <h3>👩‍💻 Programming Languages</h3>
+  <h3 align="center"> Programming Languages</h3>
   <p align="center">
-  <p>
     <div align="center">
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
@@ -73,7 +72,7 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     </div>
   </p>
-  </P>
+
 
   <h3>☁️ Databases and Cloud Hosting</h3>
 
