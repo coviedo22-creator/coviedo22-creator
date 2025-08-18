@@ -28,7 +28,7 @@
 
 <!-- Intro -->
 <p align="center">
-Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with **2 years of experience** in transforming raw data into actionable insights within the **higher education** sector, specifically community colleges. My current mission? To empower **educators** and **policy leaders** by making data analytics accessible and user-friendly, such as integrating **Python** with **Excel** to simplify their workflows! All of my coding projects stem from **real-world challenges** I've faced in my work. Each project is designed with the intention of being accessible and useful to everyone. I have a new YouTube channel where I plan to publish my findings, insights, and tutorials.
+Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong>2 years of experience</strong> in transforming raw data into actionable insights within the <strong>higher education</strong> sector, specifically community colleges. My current mission? To empower <strong>educators</strong> and <strong>policy leaders</strong> by making data analytics accessible and user-friendly, such as integrating <strong>Python</strong> with <strong>Excel</strong> to simplify their workflows! All of my coding projects stem from <strong>real-world challenges</strong> I've faced in my work. Each project is designed with the intention of being accessible and useful to everyone. I have a new YouTube channel where I plan to publish my findings, insights, and tutorials.
 </p>
 
 ##
