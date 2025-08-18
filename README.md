@@ -34,7 +34,8 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif">
   <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
-</a> 
+</a>
+
 ##
 - 🎓 Currently diving deeper into a Master of Science, Data Analytics - Data Science degree at Western Governors University
 - 💻 Passionate about enhancing my coding skills and exploring innovative data solutions
