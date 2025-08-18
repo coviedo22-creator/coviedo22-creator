@@ -33,17 +33,18 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 
 ##
 
-<!-- Section Header -->
+<!-- Section Header - About Me -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif">
   <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
+<!-- About Me Content -->
 <p align="center">
-* Currently diving deeper into a Master of Science, Data Analytics - Data Science degree at Western Governors University
-* Passionate about enhancing my coding skills and exploring innovative data solutions
-* Experienced in data visualization and turning complex data into compelling stories
+* Currently diving deeper into a Master of Science, Data Analytics - Data Science degree at Western Governors University<br>
+* Passionate about enhancing my coding skills and exploring innovative data solutions<br>
+* Experienced in data visualization and turning complex data into compelling stories<br>
 * Dedicated to leveraging data to improve educational outcomes and drive positive change
  </p> 
  
