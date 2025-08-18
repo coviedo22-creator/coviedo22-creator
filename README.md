@@ -58,7 +58,7 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 ##
 <!-- Tech Stack Content -->
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+<p align="center">
   <h3>👩‍💻 Programming Languages</h3>
   <p align="center">
   <p>
