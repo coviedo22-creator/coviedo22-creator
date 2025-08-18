@@ -4,7 +4,7 @@
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-1.gif" alt="Sunrise City GIF" style="width:auto; height:auto"/>
 </a>
 
-<h1 align="center"> ✨Claudia Oviedo✨</h1>
+<h1 align="center"> I am Claudia </h1>
 <!-- Intro Typing SVG -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=25&pause=1000&color=FFB202&width=435&lines=Data+analyst+in+higher+education;Educator+and+explorer+of+knowledge;Love+to+transform+data+into+insights;Join+my+quest+as+a+data+alchemist!" alt="Typing SVG" /></a>
@@ -92,6 +92,6 @@ Did you know that nearly 47% of all students in the U.S. who earned a bachelor�
    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif" alt="Cafe GIF" style="width:auto; height:auto"/>
 </a>
 
-<h3 align="center" style="color:purple"> 🪧 This README was designed by Claudia O. </h3>
+<h3 align="center" style="color:purple"> 🪧 This README was designed by Claudia Oviedo </h3>
 
 
