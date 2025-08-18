@@ -27,7 +27,10 @@
   </p>
 
 <!-- Intro -->
+<p align="center">
 Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experience** in transforming raw data into actionable insights within the **higher education** sector, specifically community colleges. My current mission? To empower **educators** and **policy leaders** by making data analytics accessible and user-friendly, such as integrating **Python** with **Excel** to simplify their workflows! All of my coding projects stem from **real-world challenges** I've faced in my work. Each project is designed with the intention of being accessible and useful to everyone. I have a new YouTube channel where I plan to publish my findings, insights, and tutorials.
+</p>
+
 ##
 
 <!-- Section Header -->
@@ -37,10 +40,13 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 </a>
 
 ##
+<p align="center">
 - Currently diving deeper into a Master of Science, Data Analytics - Data Science degree at Western Governors University
 - Passionate about enhancing my coding skills and exploring innovative data solutions
 - Experienced in data visualization and turning complex data into compelling stories
 - Dedicated to leveraging data to improve educational outcomes and drive positive change
+ </p> 
+ 
 ##
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
