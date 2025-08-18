@@ -1,7 +1,7 @@
 <!-- Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-1.gif">
   <p align="center">
-  <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-1.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-1.gif" alt="Sunrise City GIF" style="width:auto; height:auto"/>
 </a>
 
 <h1 align="center" style="color:purple"> ✨Claudia Oviedo✨</h1>
@@ -87,7 +87,10 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 Did you know that nearly 47% of all students in the U.S. who earned a bachelor’s degree first attended a community college? [Link to article](https://nscresearchcenter.org/snapshotreport-twoyearcontributionfouryearcompletions26/)
 
 <!-- Footer -->
-<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif"><img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif" alt="Cafe GIF" style="width:auto; height:auto"/></a>
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif">
+ <p align="center">
+   <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif" alt="Cafe GIF" style="width:auto; height:auto"/>
+</a>
 
 🪧 This README was designed by **Claudia Oviedo**.
 
