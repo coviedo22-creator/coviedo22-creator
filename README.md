@@ -32,7 +32,6 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 </p>
 
 ##
-
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif">
   <p align="center">
