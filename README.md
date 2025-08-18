@@ -58,6 +58,15 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 </div>
 </p>
 
+
+<p align="center">
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="text-align: center;">First item with a short description.</li>
+    <li style="text-align: center;">Second item that is a bit longer than the first one.</li>
+    <li style="text-align: center;">Third item with an even longer description that goes on a bit.</li>
+  </ul>
+</p>
+
 ##
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
