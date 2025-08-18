@@ -47,7 +47,7 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 ⚫ Experienced in data visualization and turning complex data into compelling stories<br>
 ⚫ Dedicated to leveraging data to improve educational outcomes and drive change
 </p>
-
+<p align="center">
 <div align="center">
   <ul>
     <li>First item with a short description.</li>
@@ -56,6 +56,7 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
     <li>Third item with an even longer description that goes on a bit.</li>
   </ul>
 </div>
+</p>
 
 ##
 <!-- Section Header -->
