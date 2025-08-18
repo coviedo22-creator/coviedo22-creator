@@ -31,7 +31,7 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif">
-  <p align="left">
+  <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
 
@@ -43,7 +43,7 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
-  <p align="left">
+  <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif" alt="Apartment City GIF" style="width:auto; height:auto"/>
 </a>
 
@@ -97,7 +97,7 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-section-art.gif">
-  <p align="left">
+  <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
 
