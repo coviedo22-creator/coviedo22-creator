@@ -42,7 +42,7 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 ##
 <!-- About Me Content -->
 <p align="center">
-  <div align="center">
+  <div align="left">
   <ul style="list-style-type: disc; padding: 0; text-align: left;"
     
 ➖ Currently diving deeper into a Master of Science, Data Analytics/Data Science Degree<br>
