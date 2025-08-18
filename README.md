@@ -37,10 +37,10 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 </a>
 
 ##
-- 🎓 Currently diving deeper into a Master of Science, Data Analytics - Data Science degree at Western Governors University
-- 💻 Passionate about enhancing my coding skills and exploring innovative data solutions
-- 📊 Experienced in data visualization and turning complex data into compelling stories
-- 🌍 Dedicated to leveraging data to improve educational outcomes and drive positive change
+- Currently diving deeper into a Master of Science, Data Analytics - Data Science degree at Western Governors University
+- Passionate about enhancing my coding skills and exploring innovative data solutions
+- Experienced in data visualization and turning complex data into compelling stories
+- Dedicated to leveraging data to improve educational outcomes and drive positive change
 ##
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
