@@ -49,14 +49,15 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 </div>
 
 ##
-<!-- Section Header -->
+<!-- Section Header - Tech Stack -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
   <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif" alt="Apartment City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<!-- Tech Stack Content -->
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👩‍💻 Programming Languages</h3>
   <p align="center">
