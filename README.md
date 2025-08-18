@@ -41,11 +41,13 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 
 ##
 <!-- About Me Content -->
-<p align="center">*Currently diving deeper into a Master of Science, Data Analytics/Data Science Degree<br></p>
-+ Passionate about enhancing my coding skills and exploring innovative data solutions<br>
-+ Experienced in data visualization and turning complex data into compelling stories<br>
-+ Dedicated to leveraging data to improve educational outcomes and drive change
- 
+<p align="center">
+⚫ Currently diving deeper into a Master of Science, Data Analytics/Data Science Degree<br></p>
+⚫ Passionate about enhancing my coding skills and exploring innovative data solutions<br>
+⚫ Experienced in data visualization and turning complex data into compelling stories<br>
+⚫ Dedicated to leveraging data to improve educational outcomes and drive change
+</p>
+
 ##
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
