@@ -78,20 +78,21 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
     <div align="center">
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-   </div>
+    </div>
   </p>
 
-<h3>📚Frameworks and Libraries</h3>
-
-  <p>
+<h3 align="center"> Frameworks and Libraries</h3>
+  <p align="center">
+    <div align="center">
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a> 
+    </div>
   </p>
 
-  <h3>🖥️ Software Tools</h3>
-
-  <p>
+<h3 align="center"> Software Tools</h3>
+  <p align="center">
+    <div align="center">
       <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
       <a href="#"><img alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)"></a>
       <a href="#"><img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white"></a>
@@ -104,6 +105,7 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
+    </div>
   </p>
 
 ##
