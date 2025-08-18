@@ -41,6 +41,7 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
 - 💻 Passionate about enhancing my coding skills and exploring innovative data solutions
 - 📊 Experienced in data visualization and turning complex data into compelling stories
 - 🌍 Dedicated to leveraging data to improve educational outcomes and drive positive change
+##
 
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
@@ -95,6 +96,8 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
   </p>
+
+##
 
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-section-art.gif">
