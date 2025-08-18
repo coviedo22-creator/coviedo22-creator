@@ -34,6 +34,7 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
   <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
+
 ##
 - 🎓 Currently diving deeper into a Master of Science, Data Analytics - Data Science degree at Western Governors University
 - 💻 Passionate about enhancing my coding skills and exploring innovative data solutions
@@ -45,6 +46,7 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
   <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif" alt="Apartment City GIF" style="width:auto; height:auto"/>
 </a>
+
 ##
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -98,6 +100,7 @@ Welcome to my corner of GitHub! I'm a **data analyst** with **2 years of experie
   <p align="center">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
+
 ##
 Did you know that nearly 47% of all students in the U.S. who earned a bachelor’s degree first attended a community college? [Link to article](https://nscresearchcenter.org/snapshotreport-twoyearcontributionfouryearcompletions26/)
 
