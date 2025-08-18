@@ -43,27 +43,10 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 <!-- About Me Content -->
 <p align="center">
 ➖ Currently diving deeper into a Master of Science, Data Analytics/Data Science Degree<br>
-⚫ Passionate about enhancing my coding skills and exploring innovative data solutions<br>
-⚫ Experienced in data visualization and turning complex data into compelling stories<br>
-⚫ Dedicated to leveraging data to improve educational outcomes and drive change
+➖ Passionate about enhancing my coding skills and exploring innovative data solutions<br>
+➖ Experienced in data visualization and turning complex data into compelling stories<br>
+➖ Dedicated to leveraging data to improve educational outcomes and drive change
 </p>
-
-<p align="center">
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="text-align: center;">First item with a short description.</li>
-    <li style="text-align: center;">Second item that is a bit longer than the first one.</li>
-    <li style="text-align: center;">Third item with an even longer description that goes on a bit.</li>
-  </ul>
-</p>
-
-
-<div align="center">
-  <ul style="list-style-type: disc; padding: 0; text-align: center;">
-    <li>First item with a short description.</li>
-    <li>Second item that is a bit longer than the first one.</li>
-    <li>Third item with an even longer description that goes on a bit.</li>
-  </ul>
-</div>
 
 ##
 <!-- Section Header -->
