@@ -42,12 +42,10 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 ##
 <!-- About Me Content -->
 <div align="center">
-  <ul style="list-style-type: left; padding: 0; margin: 0;">
 ➖ Currently diving deeper into a Master of Science, Data Analytics/Data Science Degree<br>
 ➖ Passionate about enhancing my coding skills and exploring innovative data solutions<br>
 ➖ Experienced in data visualization and turning complex data into compelling stories<br>
 ➖ Dedicated to leveraging data to improve educational outcomes and drive change
-  </ul>
 </div>
 
 ##
