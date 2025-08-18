@@ -32,7 +32,6 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 </p>
 
 ##
-
 <!-- Section Header - About Me -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif">
   <p align="center">
@@ -109,7 +108,6 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
   </p>
 
 ##
-
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-section-art.gif">
   <p align="center">
@@ -117,8 +115,11 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 </a>
 
 ##
-Did you know that nearly 47% of all students in the U.S. who earned a bachelor’s degree first attended a community college? [Link to article](https://nscresearchcenter.org/snapshotreport-twoyearcontributionfouryearcompletions26/)
+<p align="center">
+❓Did you know that nearly 47% of all students in the U.S. who earned a bachelor’s degree first attended a community college? [Link to article](https://nscresearchcenter.org/snapshotreport-twoyearcontributionfouryearcompletions26/)
+</p>
 
+##
 <!-- Footer -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif">
  <p align="center">
