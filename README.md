@@ -73,11 +73,12 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
   </p>
 
 
-  <h3>☁️ Databases and Cloud Hosting</h3>
-
-  <p>
+  <h3 align="center"> Databases and Cloud Hosting</h3>
+  <p align="center">
+    <div align="center">
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+   </div>
   </p>
 
 <h3>📚Frameworks and Libraries</h3>
