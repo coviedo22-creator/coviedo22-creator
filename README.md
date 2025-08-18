@@ -73,6 +73,7 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     </div>
   </p>
+  </P>
 
   <h3>☁️ Databases and Cloud Hosting</h3>
 
