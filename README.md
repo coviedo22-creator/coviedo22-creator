@@ -1,7 +1,7 @@
 <!-- Header -->
-<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/hello-world-co-pic.gif">
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/hello-world-co-1-pic.gif">
   <p align="center">
-    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/hello-world-co-pic.gif" alt="Sunset City GIF" style="width:auto; height:auto"/>
+    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/hello-world-co-1-pic.gif" alt="Sunset City GIF" style="width:auto; height:auto"/>
 </a>
 
 <h1 align="center"> 🌆 Hello There, I Am Claudia! 💫 </h1>
