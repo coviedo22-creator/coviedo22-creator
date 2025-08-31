@@ -33,9 +33,9 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 
 ##
 <!-- Section Header - About Me -->
-<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif">
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-co-section.gif">
   <p align="center">
-    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
+    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-co-section.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
@@ -49,9 +49,9 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 
 ##
 <!-- Section Header - Tech Stack -->
-<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif">
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-co-section.gif">
   <p align="center">
-    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-section-art.gif" alt="Apartment City GIF" style="width:auto; height:auto"/>
+    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-co-section.gif" alt="Apartment City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
@@ -109,9 +109,9 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 
 ##
 <!-- Section Header -->
-<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-section-art.gif">
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-co-section.gif">
   <p align="center">
-    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-section-art.gif" alt="Park City GIF" style="width:auto; height:auto"/>
+    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-co-section.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
@@ -121,9 +121,9 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 
 ##
 <!-- Footer -->
-<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif">
+<a href="https://github.com/coviedo22-creator/Helloworld/blob/main/sip-coffee-co-pic.gif">
  <p align="center">
-   <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/GitHub-Cover-Footer-1.gif" alt="Cafe GIF" style="width:auto; height:auto"/>
+   <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/sip-coffee-co-pic.gif" alt="Cafe GIF" style="width:auto; height:auto"/>
 </a>
 
 <h4 align="center" style="color:purple"> 🛠️ This README was designed by Claudia Oviedo </h4>
