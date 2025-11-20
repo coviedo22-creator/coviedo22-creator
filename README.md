@@ -126,6 +126,6 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
    <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/sip-coffee-co-pic.gif" alt="Cafe GIF" style="width:auto; height:auto"/>
 </a>
 
-<h4 align="left" style="color:purple"> 🛠️ <i>This README was designed by Claudia Oviedo</i></h4>
+<h5 align="left" style="color:purple"> 🛠️ <i>This README was designed by Claudia Oviedo</i></h5>
 
 
