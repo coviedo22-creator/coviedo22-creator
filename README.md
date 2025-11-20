@@ -4,7 +4,7 @@
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/hello-world-co-1-pic.gif" alt="Sunset City GIF" style="width:auto; height:auto"/>
 </a>
 
-<h1 align="center"> 🌆 Hello There, I Am Claudia! 💫 </h1>
+<h1 align="left"> 🌆 Hello There, I Am Claudia! 💫 </h1>
 <!-- Intro Typing SVG -->
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=25&pause=1000&color=FFB202&width=435&lines=Data+analyst+in+higher+education;Educator+and+explorer+of+knowledge;Love+to+transform+data+into+insights;Join+my+quest+as+a+data+alchemist!" alt="Typing SVG" /></a>
