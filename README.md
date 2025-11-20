@@ -1,17 +1,17 @@
 <!-- Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/hello-world-co-1-pic.gif">
-  <p align="center">
+  <p align="left">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/hello-world-co-1-pic.gif" alt="Sunset City GIF" style="width:auto; height:auto"/>
 </a>
 
 <h1 align="center"> 🌆 Hello There, I Am Claudia! 💫 </h1>
 <!-- Intro Typing SVG -->
-<p align="center">
+<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=25&pause=1000&color=FFB202&width=435&lines=Data+analyst+in+higher+education;Educator+and+explorer+of+knowledge;Love+to+transform+data+into+insights;Join+my+quest+as+a+data+alchemist!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Media & Contact -->
-  <p align="center">
+  <p align="left">
     <a href="https://www.youtube.com/@claudia-data-alchemist">
       <img alt="YouTube channel" title="Subscribe to my YouTube channel"
       src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
@@ -27,20 +27,20 @@
   </p>
 
 <!-- Intro -->
-<p align="center">
+<p align="left">
 Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong>2 years of experience</strong> in transforming raw data into actionable insights within the <strong>higher education</strong> sector, specifically community colleges. My current mission? To empower <strong>educators</strong> and <strong>policy leaders</strong> by making data analytics accessible and user-friendly, such as integrating <strong>Python</strong> with <strong>Excel</strong> to simplify their workflows! All of my coding projects stem from <strong>real-world challenges</strong> I've faced in my work. Each project is designed with the intention of being accessible and useful to everyone. I have a new YouTube channel where I plan to publish my findings, insights, and tutorials.
 </p>
 
 ##
 <!-- Section Header - About Me -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-co-section.gif">
-  <p align="center">
+  <p align="left">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/a-bit-about-me-co-section.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
 <!-- About Me Content -->
-<div align="center">
+<div align="left">
 ➖ Currently diving deeper into a Master of Science, Data Analytics/Data Science Degree<br>
 ➖ Passionate about enhancing my coding skills and exploring innovative data solutions<br>
 ➖ Experienced in data visualization and turning complex data into compelling stories<br>
@@ -50,16 +50,16 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 ##
 <!-- Section Header - Tech Stack -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-co-section.gif">
-  <p align="center">
+  <p align="left">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/tech-stack-co-section.gif" alt="Apartment City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
 <!-- Tech Stack Content -->
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  <h3 align="center"> Programming Languages</h3>
-  <p align="center">
-    <div align="center">
+  <h3 align="left"> Programming Languages</h3>
+  <p align="left">
+    <div align="left">
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -72,26 +72,26 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
   </p>
 
 
-  <h3 align="center"> Databases and Cloud Hosting</h3>
-  <p align="center">
-    <div align="center">
+  <h3 align="left"> Databases and Cloud Hosting</h3>
+  <p align="left">
+    <div align="left">
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     </div>
   </p>
 
-<h3 align="center"> Frameworks and Libraries</h3>
-  <p align="center">
-    <div align="center">
+<h3 align="left"> Frameworks and Libraries</h3>
+  <p align="left">
+    <div align="left">
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a> 
     </div>
   </p>
 
-<h3 align="center"> Software Tools</h3>
-  <p align="center">
-    <div align="center">
+<h3 align="left"> Software Tools</h3>
+  <p align="left">
+    <div align="left">
       <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
       <a href="#"><img alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)"></a>
       <a href="#"><img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white"></a>
@@ -110,12 +110,12 @@ Welcome to my corner of GitHub! I'm a <strong>data analyst</strong> with <strong
 ##
 <!-- Section Header -->
 <a href="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-co-section.gif">
-  <p align="center">
+  <p align="left">
     <img src="https://github.com/coviedo22-creator/Helloworld/blob/main/fun-fact-co-section.gif" alt="Park City GIF" style="width:auto; height:auto"/>
 </a>
 
 ##
-<p align="center">
+<p align="left">
 ❓Did you know that nearly 47% of all students in the U.S. who earned a bachelor’s degree first attended a community college? [Link to article](https://nscresearchcenter.org/snapshotreport-twoyearcontributionfouryearcompletions26/)
 </p>
 
